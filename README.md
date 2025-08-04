@@ -2,6 +2,16 @@
 ### Overview
 This project aims to build predictive models for breast cancer risk using the BCSC dataset, focusing not only on model accuracy but also on fairness across racial and ethnic groups. Breast cancer risk prediction can be life-saving, but models must be equitable to avoid perpetuating health disparities. 
 
+### Main Question:
+How fair are existing breast cancer risk prediction models across racial and ethnic subgroups?
+
+### Sub-Questions:
+
+Do model accuracy metrics (like AUC) vary by race and ethnicity?
+
+Are certain groups more likely to receive false negatives?
+
+Can reweighting or fairness-aware algorithms reduce disparities?
 This work includes:
 
 Data preprocessing and feature engineering
