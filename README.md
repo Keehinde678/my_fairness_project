@@ -25,7 +25,7 @@ Clinical features relevant to breast cancer risk (e.g., age at menarche, breast 
 
 Breast cancer history (binary target variable)
 
-### Note: Entries with unknown breast cancer history or race (race_eth = 9) are filtered out during modeling to ensure data quality.
+##### Note: Entries with unknown breast cancer history or race (race_eth = 9) are filtered out during modeling to ensure data quality.
 
 ### Project Structure
 data/
