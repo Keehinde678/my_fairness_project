@@ -1,6 +1,19 @@
 # Breast Cancer Risk Prediction with Fairness Analysis
 ### Overview
-This project aims to build predictive models for breast cancer risk using the BCSC dataset, focusing not only on model accuracy but also on fairness across racial and ethnic groups. Breast cancer risk prediction can be life-saving, but models must be equitable to avoid perpetuating health disparities. 
+This project aims to build predictive models for breast cancer risk using the BCSC dataset, focusing not only on model accuracy but also on fairness across racial and ethnic groups. Breast cancer risk prediction can be life-saving, but models must be equitable to avoid perpetuating health disparities. This project includes:
+
+Data preprocessing and feature engineering
+
+Model training with Logistic Regression and Random Forest
+
+Hyperparameter tuning and performance evaluation
+
+Fairness auditing through subgroup stratification by race/ethnicity
+
+Application of fairness-aware algorithms to reduce bias
+
+Error analysis of false positives and false negatives by group
+
 
 ### Main Question:
 How fair are existing breast cancer risk prediction models across racial and ethnic subgroups?
@@ -14,17 +27,6 @@ Are certain groups more likely to receive false negatives?
 Can reweighting or fairness-aware algorithms reduce disparities?
 This work includes:
 
-Data preprocessing and feature engineering
-
-Model training with Logistic Regression and Random Forest
-
-Hyperparameter tuning and performance evaluation
-
-Fairness auditing through subgroup stratification by race/ethnicity
-
-Application of fairness-aware algorithms to reduce bias
-
-Error analysis of false positives and false negatives by group
 
 ### Dataset
 The dataset is sourced from the Breast Cancer Surveillance Consortium (BCSC) and contains:
