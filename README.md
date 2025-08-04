@@ -122,5 +122,5 @@ For questions or collaboration, please reach out to:
 Kehinde Soetan
 Graduate Student, Medical Humanities
 [kehindesoetan3@gmail.com]
-[Kehinde Soetan/Keehinde678]
+[Linkedin: Kehinde Soetan/Keehinde678]
 
